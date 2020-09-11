@@ -1,23 +1,29 @@
-# Onboarding Innovacción Virtual - GitHub Student Developer Pack
+![](./images/i1.PNG) 
+# Inducción Innovacción Virtual
 
-### Bienvenido al ciclo de Innovacción Virtual de Microsoft.
-![](/images/i1.PNG)  
+## Objetivos 🥅
 
-Como parte de los beneficios del programa se encuentra el acceso al  **GitHub Student Developer Pack** 
+Al finalizar este modules deberas de tener: 
+- Una cuenta de GitHub.
+- Acceso al GitHub Student Developer Pack.
+- Acceso a la organización.
 
-### GitHub Student Developer Pack
+## GitHub Student Developer Pack
 
-![](./images/i2.PNG)    
+![](./images/i2.png)    
 
-Un conjunto de herramientas, cursos y programas de comunidad con un valor aproximado de 200 mil dólares anuales, que te ayudarán a fortalecer los conocimientos que irás adquiriendo durante tu viaje por Innovacción Virtual. 
+No hay sustituto para la experiencia práctica. Pero para la mayoría de los estudiantes, las herramientas del mundo real pueden tener un costo prohibitivo. Es por eso que creamos el Paquete de desarrollador para estudiantes de GitHub con algunos de nuestros socios y amigos: para brindarles a los estudiantes acceso gratuito a las mejores herramientas de desarrollo en un solo lugar para que puedan aprender programando.
 
-Es decir, como tus Sherpas Digitales, tenemos para ti una mochila virtual con todos los elementos necesarios para que puedas afrontar tus retos, terminar el programa y seguir en constante desarrollo. Incluso, cuando el ciclo haya finalizado.
+El student developer pack es un conjunto de herramientas, cursos y programas de comunidad con un valor aproximado de 200 mil dólares, que te ayudarán a fortalecer los conocimientos que irás adquiriendo durante tu viaje por Innovacción Virtual. 
+
+Como tus Sherpas Digitales, tenemos para ti una mochila virtual con todos los elementos necesarios para que puedas afrontar tus retos, terminar el programa y seguir en constante desarrollo. Incluso, cuando el ciclo haya finalizado.
 
 ### ¿Cómo Funciona?
 
-Para poder acceder a los beneficios del GitHub Student Developer Pack, es necesario contar con una cuenta institucional de tu Universidad, así cómo un documento que acredite tu status de estudiante. 
+Para poder acceder a los beneficios del GitHub Student Developer Pack, es necesario contar con una cuenta de correo institucional de tu universidad, así cómo un documento que acredite tu status de estudiante. 
 
-Sin embargo al ingresar al programa de Innovacción Virtual 
+Sin embargo al ingresar al programa de Innovacción Virtual se te proporciona un correo institucional que podrás utilizar para acceder a los beneficios que te ofrece el GitHub Student Developer Pack.
+
 En este repositorio encontrarás las instrucciones para poder activar tu GitHub Student Developer Pack, haciendo uso de tu cuenta de Innovacción Virtual.
 
 ### ¿Qué necesito?
@@ -28,7 +34,7 @@ Para poder acceder a los beneficios que otorga el GitHub Student Developer Pack 
 * Tener mínimo 13 años de edad.
 * Contar con una cuenta de **GitHub (Si no tienes, te enseñamos a hacer una)**.
 
-### ¿Cuáles son los pasos para acceder al GitHub Student Developer Pack?
+## Instrucciones
 
 * [Crear una cuenta de GitHub](#creando-una-cuenta-de-github)
 * [Verificar la cuenta de GitHub](#verificar-la-cuenta-de-correo-en-github)
@@ -38,7 +44,7 @@ Para poder acceder a los beneficios que otorga el GitHub Student Developer Pack 
 
 Ingresa a la página de [GitHub](https://github.com/) y rellena los campos que a continuación te solicitan con la siguiente información:
 
-![Página de Inicio de GitHub](https://github.com/innovaccion-virtual/onboarding-github-innovaccion/blob/master/images/g1.PNG)
+![Página de Inicio de GitHub](./images/g1.PNG)
 
 **Username:** Un nombre de Usuario con el que serás identificado, te recomendamos escoger un nombre corto, puede ser algo como ```NombreApellido```. Si no está disponible puedes agregar, la letra de tu segundo apellido, un numero o algún distintivo.
 Ejemplo: 
@@ -163,3 +169,10 @@ Ahora que ya tenemos un correo y la cuenta de GitHub podemos aplicar para el Git
 * Abrimos el correo y con esto, hemos activado exitosamente nuestro GitHub Student Developer Pack
     * ![Succesful](./images/sp8.PNG)
     
+## Conclusión del Modulo ✅
+
+Habrás completado el modulo cuando:
+
+- Tengas una cuenta de GitHub.
+- Tengas acceso al GitHub Student Developer Pack.
+- Seas parte de la organización del programa.
