@@ -31,7 +31,7 @@ Lo primero es tener una cuenta en CANVA, si ya la tienes puedes saltarte estos p
     * Para activar la versión PRO coninúa el tutorial.  
     
 ## Activando la versión PRO de CANVA
-* Para ello damos clic en el link señalado en el recuadro color **ROJO**
+* Para ello damos clic en el [link](https://www.canva.com/education/github/) señalado en el recuadro color **ROJO**
      * ![](../img/dp4.PNG) 
     
     * Nos llevara a la siguiente pantalla y seleccionamos **Iniciar Sesión** señalada en color **ROJO**
