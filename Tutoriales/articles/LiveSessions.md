@@ -19,7 +19,7 @@ Iniciamos sesión en Microsoft Teams con nuestra cuenta de Innovacción Virtual,
     * 4- Nos abrirá una nueva pestaña o bien una pestaña en el navegador como se muestra a continuación
         * ![Scren 4](../img/st4.PNG)  
     * 5- Seleccionamos la opción **MI CONTENIDO** señalada en el recuadro color **ROJO**, seguido de la opción **GRUPOS** señalada en color **VERDE**
-        * ![Screen 5](../img/st5.PNG)
+        * ![Screen 5](../img/st5.png)
     * 6- En la pantalla se mostrarán los equipos disponibles, en nuestro caso seleccionamos **NUBE**
         * ![Screen 6](../img/st6.PNG)
     * 7- Ahora podemos encontrar las grabaciones de los eventos en directo que tenemos disponibles. 
