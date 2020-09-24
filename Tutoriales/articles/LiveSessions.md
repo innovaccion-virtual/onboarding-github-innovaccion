@@ -10,7 +10,7 @@ Iniciamos sesión en Microsoft Teams con nuestra cuenta de Innovacción Virtual,
     
     2- Podemos observar en el cuadro color **AZUL** la aplicación Microsoft Stream. Si no logras visualizarla, en el recuadro señalado color **VERDE** escribimos ```Stream```  
         
-        * Seleccionamos la primera opción, señalada en el recuadro **VERDE**  
+     * Seleccionamos la primera opción, señalada en el recuadro **VERDE**  
         
         ![Screen 2](../img/st2.PNG)  
         
