@@ -156,6 +156,9 @@ Ahora que ya tenemos un correo y la cuenta de GitHub podemos aplicar para el Git
 
     * ![Como utilizaremos el student developer pack](./images/sp4.PNG)   
     
+ * En caso de que te pida una prueba de tu estatus de estudiante (_este es un fitro adicional de seguridad_), sube una foto de tu credencial, constacia o kardex de **tu** escuela o universidad.
+    * ![Cargar prueba](./images/sp9.png) 
+    
 * Al finalizar, damos clic en Submit your information y tendremos la confirmación de envio.   
 
     * ![Gracias por enviar tu aplicación](./images/sp5.PNG)   
