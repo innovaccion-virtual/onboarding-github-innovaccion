@@ -113,7 +113,7 @@ Para verificar nuestra cuenta de correo, debemos seguir estos pasos:
 
 * Ingresar a la siguiente dirección ```https://outlook.office365.com/``` o dar [clic aquí](https://outlook.office365.com/) 
 
-* Nos pedirá nuestra cuenta de correo, por lo que escribimos nuestra cuenta de **Innovacción Virtual **
+* Nos pedirá nuestra cuenta de correo, por lo que escribimos nuestra cuenta de **Innovacción Virtual**
         @innovaccion.mx  
     ![Inicio de Sesión Outlook 365](./images/o1.PNG)    
 
