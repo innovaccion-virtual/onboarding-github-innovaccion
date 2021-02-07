@@ -1,9 +1,9 @@
-![](./images/i1.PNG) 
+![](./images/IVCE.png) 
 # Inducción Innovacción Virtual
 
 ## Objetivos 🥅
 
-Al finalizar este modules deberas de tener: 
+Al finalizar este module deberás de tener: 
 - Una cuenta de GitHub.
 - Acceso al GitHub Student Developer Pack.
 - Acceso a la organización.
@@ -52,7 +52,7 @@ Ejemplo:
 * ```RodolfoFerro``` 
 * ```FernandaOchoa```
 
-**Correo:** **Tu correo de Innovacción Virtual, termina con @innovaccion.mx**  
+**Correo:** **Tu correo de Institucional, termina con @tuUniversidad**  
 **Contraseña:** Asegúrate de guardar en un lugar seguro tu contraseña, ya que la necesitarás en varias ocasiones al usar GitHub.
 
 Una vez terminado el proceso deberás tener algo como lo que se muestra a continuación.
@@ -111,15 +111,6 @@ Al dar enter nos mostrará la siguiente pantalla, informando que debemos verific
 
 Para verificar nuestra cuenta de correo, debemos seguir estos pasos:
 
-* Ingresar a la siguiente dirección ```https://outlook.office365.com/``` o dar [clic aquí](https://outlook.office365.com/) 
-
-* Nos pedirá nuestra cuenta de correo, por lo que escribimos nuestra cuenta de **Innovacción Virtual **
-        @innovaccion.mx  
-    ![Inicio de Sesión Outlook 365](./images/o1.PNG)    
-
-* Al dar clic en siguiente nos pedirá nuestra contraseña de la cuenta de correo.  
-    * ![Inicio de Sesión Outlook 365 Contraseña](./images/o2.PNG)    
-
 * Tendremos en nuestra bandeja de entrada un nuevo correo electrónico de GitHub le damos clic para abrirlo.    
     * ![Correo nuevo](./images/o3.PNG)  
 
@@ -145,22 +136,52 @@ Ahora que ya tenemos un correo y la cuenta de GitHub podemos aplicar para el Git
 * Nos mandará a nuestro formulario de aplicación al GitHub Student Developer Pack
     * ![Student Developer Pack Inicio](./images/sp1.PNG)  
 
-* Como podemos observar el link que te proporcionamos aquí esta pre-aprobado directamente.
-    * ![Pre aprobado](./images/sp2.PNG)  
+* En donde dice "¿Cuál describe mejor su estado académico?", Selecciona **Estudiante**.
+    * ![Selecciona Estudiante](https://docs.github.com/assets/images/help/education/academic-status-student.png)
+* Selecciona o añade la dirección de correo electrónico que utilizas para la escuela.
+    * ![](https://docs.github.com/assets/images/help/education/select-email-address.png)
 
-* Más abajo ya se encuentra por defecto **Innovacción Virtual** como el nombre de nuestra escuela.  
-    * ![Nombre de la Escuela](./images/sp3.PNG)  
-    
-* Sólo debemos escribir **En Inglés**, Cómo planeamos utilizar nuestro Student Developer Pack. 
-    * Podemos mencionar cosas como: Aprender a desarrollar nuevos proyectos, almacenar los proyectos que desarrollas, etc.   
+    * **Sugerencia**: seleccionar una dirección de correo electrónico emitida por la escuela, si tienes una, te da mayor probabilidad de una revisión rápida.
 
-    * ![Como utilizaremos el student developer pack](./images/sp4.PNG)   
-    
-* Al finalizar, damos clic en Submit your information y tendremos la confirmación de envio.   
+* Si te lo solicita, carga la prueba de tu situación académica.
 
-    * ![Gracias por enviar tu aplicación](./images/sp5.PNG)   
+    * Haz clic en **Use your camera to take a picture** (Utiliza tu cámara para sacar una foto).
+
+    * ![](https://docs.github.com/assets/images/help/education/upload-proof-status.png)
+
+    * Como alternativa, para cambiar la cámara que deseas utilizar, usa el menú desplegable de la cámara.
+
+    * ![](https://docs.github.com/assets/images/help/education/camera-drop-down.png)
+
+    * Coloca tu ID académico válido u otra prueba de tu situación académica actual en el cuadro, después haz clic en Take a picture (Sacar una foto).
+
+    * ![](https://docs.github.com/assets/images/help/education/take-photo-button.png)
+
+    * Si no puedes sacar una foto de la prueba de tu situación académica, para cargar una imagen desde tu computadora en su lugar, haz clic en **Upload image (Cargar una imagen)**.
+
+    * ![](https://docs.github.com/assets/images/help/education/upload-image-link.png)
+
+    * **Nota**: no se admiten archivos PDF y no puedes cargarlos como prueba de tu situación académica.
+
+* Ingresa el nombre de tu escuela.
+
+    * ![](https://docs.github.com/assets/images/help/education/enter-school-name.png)
+
+* Describe cómo planeas utilizar GitHub.
+
+    * ![](https://docs.github.com/assets/images/help/education/purpose-for-github-education.png)
+
     
-* Recibiremos un email en un lapso de 1 hora a 3 dias hábiles. En este caso, llego en 5 min al apartado de otros. Le doy clic a **Otros: nuevas conversaciones**
+* Verifica los detalles de tu aplicación, luego haz clic en **Submit your information** (Enviar tu información).
+
+    ![](https://docs.github.com/assets/images/help/education/submit-your-information-button.png)
+
+
+Si tu solicitud es aprobada, recibirás un correo electrónico de confirmación. Las solicitudes generalmente se procesan en pocos días, pero puede llevar más tiempo durante las horas pico, así como durante el inicio de un nuevo semestre.
+    
+ 
+    
+* Recibiremos un email.Le das clic a **Otros: nuevas conversaciones**
 
     * ![Correo Student Developer Pack](./images/sp6.PNG)  
     
@@ -176,13 +197,12 @@ Ahora que ya tenemos un correo y la cuenta de GitHub podemos aplicar para el Git
 Para ser parte de la organización en GitHub, debemos hacer lo siguiente:
 
 * Dar [Clic aquí](https://innovaccion-virtual-viajeros.herokuapp.com/) para tener la siguiente pantalla  
-    * ![Pantalla de ingreso](./images/org1.PNG)  
+    * ![Pantalla de ingreso](./images/SCR.jpg)  
 
 * Escribimos nuestro **Nombre de Usuario en GitHub** 
     * Si no sabes cuál es, [entra aquí](https://github.com) y aquí podrás encontrar el nombre de usuario que escogiste.
         * ![](./images/id.PNG)    
     Ese es el nombre de usuario con el que vas a solicitar tu invitación a la organización.  
-    * ![Nombre de Usuario](./images/org2.PNG)  
 * Seleccionamos **Invitar a la organización**  
 
 * Nos mostrará el siguiente mensaje  
@@ -198,11 +218,23 @@ Para ser parte de la organización en GitHub, debemos hacer lo siguiente:
     * ![](./images/org7.PNG)
 * Ahora eres miembro de la organización en GitHub
     * ![](./images/org8.PNG)
+    
+## Taller de GitHub 101 
+
+### Parte 1
+
+[![](./images/taller1.PNG)](https://youtu.be/OIE9r0J1iRk "Taller de GitHub 101 parte 1")
+
+
+### Parte 2
+
+[![](./images/taller2.PNG)](https://youtu.be/8B_qtbdlLSU "Taller de GitHub 101 parte 2")
 
 ## Conclusión del Modulo ✅
 
-Habrás completado el modulo cuando:
+Habrás completado el módulo cuando:
 
 - Tengas una cuenta de GitHub.
 - Tengas acceso al GitHub Student Developer Pack.
 - Seas parte de la organización del programa.
+- Puedes consultar el [artículo oficial de GitHub aquí](https://docs.github.com/es/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack)
