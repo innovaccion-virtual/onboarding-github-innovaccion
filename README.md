@@ -197,12 +197,12 @@ Si tu solicitud es aprobada, recibirás un correo electrónico de confirmación.
 Para ser parte de la organización en GitHub, debemos hacer lo siguiente:
 
 * Dar [Clic aquí](https://innovaccion-virtual-viajeros.herokuapp.com/) para tener la siguiente pantalla  
-    * ![Pantalla de ingreso](./images/SCR.jpg)  
+    * ![Pantalla de ingreso](https://user-images.githubusercontent.com/9124597/124323272-a5282f80-db46-11eb-875f-e8dd3557fb36.jpeg)  
 
 * Escribimos nuestro **Nombre de Usuario en GitHub** 
     * Si no sabes cuál es, [entra aquí](https://github.com) y aquí podrás encontrar el nombre de usuario que escogiste.
         * ![](./images/id.PNG)    
-    Ese es el nombre de usuario con el que vas a solicitar tu invitación a la organización.  
+    Ese es el nombre de usuario con el que vas a solicitar tu invitación a la organización. **SI YA ERES MIEMBRO DE LA ORG NO TE LLEGARÁ CORREO, SÓLO APARECERÁS EN UN NUEVO EQUIPO DE LA ORGANIZACIÓN**
 * Seleccionamos **Invitar a la organización**  
 
 * Nos mostrará el siguiente mensaje  
