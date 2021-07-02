@@ -1,4 +1,6 @@
-![](./images/IVCE.png) 
+<!---![](./images/IVCE.png) -->
+![Blue and Yellow Abstact Blob Fun Facebook Cover](https://user-images.githubusercontent.com/9124597/124323536-1667e280-db47-11eb-93dc-5ad213339eaf.png)
+
 # Inducción Innovacción Virtual
 
 ## Objetivos 🥅
