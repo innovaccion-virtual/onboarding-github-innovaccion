@@ -5,10 +5,12 @@
 
 ## Objetivos 🥅
 
-Al finalizar este module deberás de tener: 
+Al finalizar este módulo deberás de tener: 
 - Una cuenta de GitHub.
 - Acceso al GitHub Student Developer Pack.
 - Acceso a la organización.
+
+*Si ya tienes activado tu GitHub Student Developer Pack, salta al paso #4.*
 
 ## GitHub Student Developer Pack
 
@@ -32,16 +34,18 @@ En este repositorio encontrarás las instrucciones para poder activar tu GitHub 
 
 Para poder acceder a los beneficios que otorga el GitHub Student Developer Pack es necesario:
 
-* Contar con una cuenta de **estudiante (Tu cuenta de Innovacción Virtual)**.
+* Contar con una cuenta de **estudiante (Tu cuenta Institucional /@tu-universidad/ )**. Si no puedes comprobar tu estatus de estudiante activo NO PODRÁS ACTIVAR EL GitHub Student Developer Pack, aunque podrás ser parte de la Organización (Pasos 1, 2 y 4).
 * Tener mínimo 13 años de edad.
 * Contar con una cuenta de **GitHub (Si no tienes, te enseñamos a hacer una)**.
 
 ## Instrucciones
 
-* [ ] [Crear una cuenta de GitHub](#creando-una-cuenta-de-github)
-* [ ] [Verificar la cuenta de GitHub](#verificar-la-cuenta-de-correo-en-github)
-* [ ] [Activar el GitHub Student Developer Pack](#activando-el-student-developer-pack)
-* [ ] [Ingresar a la Organización](#ingresar-a-la-organizacion)
+*Si ya tienes activado tu GitHub Student Developer Pack, salta al paso #4.*
+
+* [ ] [1.- Crear una cuenta de GitHub](#creando-una-cuenta-de-github)
+* [ ] [2.- Verificar la cuenta de GitHub](#verificar-la-cuenta-de-correo-en-github)
+* [ ] [3.- Activar el GitHub Student Developer Pack](#activando-el-student-developer-pack)
+* [ ] [4.- Ingresar a la Organización](#ingresar-a-la-organizacion)
 
 ## Creando una cuenta de GitHub
 
@@ -179,7 +183,7 @@ Ahora que ya tenemos un correo y la cuenta de GitHub podemos aplicar para el Git
     ![](https://docs.github.com/assets/images/help/education/submit-your-information-button.png)
 
 
-Si tu solicitud es aprobada, recibirás un correo electrónico de confirmación. Las solicitudes generalmente se procesan en pocos días, pero puede llevar más tiempo durante las horas pico, así como durante el inicio de un nuevo semestre.
+Si tu solicitud es aprobada, recibirás un correo electrónico de confirmación. Las solicitudes generalmente se procesan en pocos días, pero puede llevar más tiempo durante las horas pico, así como durante el inicio de un nuevo semestre. 
     
  
     
@@ -195,11 +199,12 @@ Si tu solicitud es aprobada, recibirás un correo electrónico de confirmación.
 
 
 ## Ingresar a la organizacion
+*Si ya formaste parte de la organización previamente, no te llegará el correo. Sólo serás parte del nuevo equipo en GitHub*
 
 Para ser parte de la organización en GitHub, debemos hacer lo siguiente:
 
 * Dar [Clic aquí](https://innovaccion-virtual-viajeros.herokuapp.com/) para tener la siguiente pantalla  
-    * ![Pantalla de ingreso](https://user-images.githubusercontent.com/9124597/124323272-a5282f80-db46-11eb-875f-e8dd3557fb36.jpeg)  
+    * ![Pantalla de ingreso](![image](https://user-images.githubusercontent.com/9124597/129394259-6b877c5e-a61e-4391-bb7d-ef0640d1d5d0.png)
 
 * Escribimos nuestro **Nombre de Usuario en GitHub** 
     * Si no sabes cuál es, [entra aquí](https://github.com) y aquí podrás encontrar el nombre de usuario que escogiste.
