@@ -1,5 +1,4 @@
-![](./images/IVCE.png)
-<!---![Blue and Yellow Abstact Blob Fun Facebook Cover](https://user-images.githubusercontent.com/9124597/124323536-1667e280-db47-11eb-93dc-5ad213339eaf.png)-->
+![Ciclo_especializado](https://user-images.githubusercontent.com/9124597/169616864-6b73a3a7-d3f4-477a-84ee-7385319af7c3.jpg)
 
 # Inducción Innovacción Virtual
 
@@ -51,11 +50,12 @@ Para poder acceder a los beneficios que otorga el GitHub Student Developer Pack 
 
 Ingresa a la página de [GitHub](https://github.com/) y rellena los campos que a continuación te solicitan con la siguiente información:
 
-![Página de Inicio de GitHub](./images/g1.PNG)
+![Página de Inicio de GitHub](https://user-images.githubusercontent.com/6200135/152621206-2349282f-43e8-4073-ac1e-6b70268c8bbf.png)
+
 
 **Username:** Un nombre de Usuario con el que serás identificado, te recomendamos escoger un nombre corto, puede ser algo como ```NombreApellido```. Si no está disponible puedes agregar, la letra de tu segundo apellido, un numero o algún distintivo.
 Ejemplo: 
-* ```RodolfoFerro``` 
+* ```OscarRodiles``` 
 * ```FernandaOchoa```
 
 **Correo:** **Tu correo de Institucional, termina con @tuUniversidad**  
@@ -63,17 +63,15 @@ Ejemplo:
 
 Una vez terminado el proceso deberás tener algo como lo que se muestra a continuación.
 
-![Formulario de GitHub de Muestra](./images/g2.PNG)  
+![Formulario de GitHub de Muestra](https://user-images.githubusercontent.com/6200135/152621235-6745e545-5ef0-45d7-bbac-67aee549d8fd.png)
 
 Ahora procedemos a dar clic en **Sign up for GitHub** 
 
 Nos pedirá verificar que no somos un robot el que está intentando acceder, tendremos una pantalla similar. Basta con dar clic en Verificar, nos pedirá hacer Identificar un elemento en una imagen, etc.  
-
-![Verificación](./images/g3.PNG)  
-
+  
 Al terminar la verificación damos se mostrará una palomita verde y damos clic en **Join a Free Plan**  
 
-![Verificación Correcta](./images/g4.PNG)  
+![Verificación Correcta](https://user-images.githubusercontent.com/9124597/152575433-66dc6b80-237b-493e-995d-5c9020a35ad1.PNG)
 
 A continuación tendremos que seleccionar de una serie de opciones, aquellas con las que nos identifiquemos. Por ejemplo, Estudiante.  
 
