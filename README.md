@@ -2,40 +2,15 @@
 
 # Inducción Innovacción Virtual
 
+# ACTUALMENTE LA COLABORACIÓN PARA EL GITHUB STUDENT DEVELOPER PACK ESTÁ EN REVISIÓN.
+Por lo que puedes aplicar **únicamente** con un correo institucional por parte de tu **universidad** 
+
+
 ## Objetivos 🥅
 
 Al finalizar este módulo deberás de tener: 
 - Una cuenta de GitHub.
-- Acceso al GitHub Student Developer Pack.
 - Acceso a la organización.
-
-*Si ya tienes activado tu GitHub Student Developer Pack, salta al paso #4.*
-
-## GitHub Student Developer Pack
-
-![](./images/i2.png)    
-
-No hay sustituto para la experiencia práctica. Pero para la mayoría de los estudiantes, las herramientas del mundo real pueden tener un costo prohibitivo. Es por eso que creamos el Paquete de desarrollador para estudiantes de GitHub con algunos de nuestros socios y amigos: para brindarles a los estudiantes acceso gratuito a las mejores herramientas de desarrollo en un solo lugar para que puedan aprender programando.
-
-El student developer pack es un conjunto de herramientas, cursos y programas de comunidad con un valor aproximado de 200 mil dólares, que te ayudarán a fortalecer los conocimientos que irás adquiriendo durante tu viaje por Innovacción Virtual. 
-
-Como tus Sherpas Digitales, tenemos para ti una mochila virtual con todos los elementos necesarios para que puedas afrontar tus retos, terminar el programa y seguir en constante desarrollo. Incluso, cuando el ciclo haya finalizado.
-
-### ¿Cómo Funciona?
-
-Para poder acceder a los beneficios del GitHub Student Developer Pack, es necesario contar con una cuenta de correo institucional de tu universidad, así cómo un documento que acredite tu status de estudiante. 
-
-Sin embargo al ingresar al programa de Innovacción Virtual se te proporciona un correo institucional que podrás utilizar para acceder a los beneficios que te ofrece el GitHub Student Developer Pack.
-
-En este repositorio encontrarás las instrucciones para poder activar tu GitHub Student Developer Pack, haciendo uso de tu cuenta de Innovacción Virtual.
-
-### ¿Qué necesito?
-
-Para poder acceder a los beneficios que otorga el GitHub Student Developer Pack es necesario:
-
-* Contar con una cuenta de **estudiante (Tu cuenta Institucional /@tu-universidad/ )**. Si no puedes comprobar tu estatus de estudiante activo NO PODRÁS ACTIVAR EL GitHub Student Developer Pack, aunque podrás ser parte de la Organización (Pasos 1, 2 y 4).
-* Tener mínimo 13 años de edad.
-* Contar con una cuenta de **GitHub (Si no tienes, te enseñamos a hacer una)**.
 
 ## Instrucciones
 
@@ -43,8 +18,7 @@ Para poder acceder a los beneficios que otorga el GitHub Student Developer Pack 
 
 * [ ] [1.- Crear una cuenta de GitHub](#creando-una-cuenta-de-github)
 * [ ] [2.- Verificar la cuenta de GitHub](#verificar-la-cuenta-de-correo-en-github)
-* [ ] [3.- Activar el GitHub Student Developer Pack](#activando-el-student-developer-pack)
-* [ ] [4.- Ingresar a la Organización](#ingresar-a-la-organizacion)
+* [ ] [3.- Ingresar a la Organización](#ingresar-a-la-organizacion)
 
 ## Creando una cuenta de GitHub
 
@@ -52,11 +26,9 @@ Ingresa a la página de [GitHub](https://github.com/) y rellena los campos que a
 
 ![Página de Inicio de GitHub](https://user-images.githubusercontent.com/6200135/152621206-2349282f-43e8-4073-ac1e-6b70268c8bbf.png)
 
-
 **Username:** Un nombre de Usuario con el que serás identificado, te recomendamos escoger un nombre corto, puede ser algo como ```NombreApellido```. Si no está disponible puedes agregar, la letra de tu segundo apellido, un numero o algún distintivo.
 Ejemplo: 
-* ```OscarRodiles``` 
-* ```FernandaOchoa```
+* ```NombreApellido```
 
 **Correo:** **Tu correo de Institucional, termina con @tuUniversidad**  
 **Contraseña:** Asegúrate de guardar en un lugar seguro tu contraseña, ya que la necesitarás en varias ocasiones al usar GitHub.
@@ -130,72 +102,6 @@ Para verificar nuestra cuenta de correo, debemos seguir estos pasos:
 * En nuestra bandeja de entrada tendremos un correo con la verificación exitosa.
     ![Welcome](./images/g11.PNG)  
 
-
-## Activando el Student Developer Pack
-
-Ahora que ya tenemos un correo y la cuenta de GitHub podemos aplicar para el GitHub Student Developer Pack.
-
-* Ingresamos al siguiente link: [Aquí](https://education.github.com/discount_requests/student_application?utm_source=2020-09-14-InnovaccionVirtual)  
-
-* Nos mandará a nuestro formulario de aplicación al GitHub Student Developer Pack
-    * ![Student Developer Pack Inicio](./images/sp1.PNG)  
-
-* En donde dice "¿Cuál describe mejor su estado académico?", Selecciona **Estudiante**.
-    * ![Selecciona Estudiante](https://docs.github.com/assets/images/help/education/academic-status-student.png)
-* Selecciona o añade la dirección de correo electrónico que utilizas para la escuela.
-    * ![](https://docs.github.com/assets/images/help/education/select-email-address.png)
-
-    * **Sugerencia**: seleccionar una dirección de correo electrónico emitida por la escuela, si tienes una, te da mayor probabilidad de una revisión rápida.
-
-* Si te lo solicita, carga la prueba de tu situación académica.
-
-    * Haz clic en **Use your camera to take a picture** (Utiliza tu cámara para sacar una foto).
-
-    * ![](https://docs.github.com/assets/images/help/education/upload-proof-status.png)
-
-    * Como alternativa, para cambiar la cámara que deseas utilizar, usa el menú desplegable de la cámara.
-
-    * ![](https://docs.github.com/assets/images/help/education/camera-drop-down.png)
-
-    * Coloca tu ID académico válido u otra prueba de tu situación académica actual en el cuadro, después haz clic en Take a picture (Sacar una foto).
-
-    * ![](https://docs.github.com/assets/images/help/education/take-photo-button.png)
-
-    * Si no puedes sacar una foto de la prueba de tu situación académica, para cargar una imagen desde tu computadora en su lugar, haz clic en **Upload image (Cargar una imagen)**.
-
-    * ![](https://docs.github.com/assets/images/help/education/upload-image-link.png)
-
-    * **Nota**: no se admiten archivos PDF y no puedes cargarlos como prueba de tu situación académica.
-
-* Ingresa el nombre de tu escuela.
-
-    * ![](https://docs.github.com/assets/images/help/education/enter-school-name.png)
-
-* Describe cómo planeas utilizar GitHub.
-
-    * ![](https://docs.github.com/assets/images/help/education/purpose-for-github-education.png)
-
-    
-* Verifica los detalles de tu aplicación, luego haz clic en **Submit your information** (Enviar tu información).
-
-    ![](https://docs.github.com/assets/images/help/education/submit-your-information-button.png)
-
-
-Si tu solicitud es aprobada, recibirás un correo electrónico de confirmación. Las solicitudes generalmente se procesan en pocos días, pero puede llevar más tiempo durante las horas pico, así como durante el inicio de un nuevo semestre. 
-    
- 
-    
-* Recibiremos un email.Le das clic a **Otros: nuevas conversaciones**
-
-    * ![Correo Student Developer Pack](./images/sp6.PNG)  
-    
-* Tendremos algo así
-    * ![GitHub Education](./images/sp7.PNG)  
-
-* Abrimos el correo y con esto, hemos activado exitosamente nuestro GitHub Student Developer Pack
-    * ![Succesful](./images/sp8.PNG)  
-
-
 ## Ingresar a la organizacion
 *Si ya formaste parte de la organización previamente, no te llegará el correo. Sólo serás parte del nuevo equipo en GitHub*
 
@@ -225,22 +131,10 @@ Para ser parte de la organización en GitHub, debemos hacer lo siguiente:
 * Ahora eres miembro de la organización en GitHub
     * ![](./images/org8.PNG)
     
-## Taller de GitHub 101 
-
-### Parte 1
-
-[![](./images/taller1.PNG)](https://youtu.be/OIE9r0J1iRk "Taller de GitHub 101 parte 1")
-
-
-### Parte 2
-
-[![](./images/taller2.PNG)](https://youtu.be/8B_qtbdlLSU "Taller de GitHub 101 parte 2")
 
 ## Conclusión del Modulo ✅
 
 Habrás completado el módulo cuando:
 
 - Tengas una cuenta de GitHub.
-- Tengas acceso al GitHub Student Developer Pack.
 - Seas parte de la organización del programa.
-- Puedes consultar el [artículo oficial de GitHub aquí](https://docs.github.com/es/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack)
